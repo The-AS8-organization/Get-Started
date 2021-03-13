@@ -28,7 +28,7 @@ Our community is open for all. If you are enthusiastic to join our community or 
 * Project Contributor
 * Community Evangelist
 
-So what are you waiting for? Fill up this quick [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe-wZlDn3sOC0VbdOhvTV9DFsBoXNTRhpaLitBH3AgNKDqeAQ/viewform) and you will be added to the Core Team and GitHub organization.
+So what are you waiting for? Fill up this quick [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc-8tZWzFQ7euhrWGk_CZ6dtHKATIlTtDN5O6WgRQadaUpbQg/viewform) and you will be added to the Core Team and GitHub organization.
 
 <br>
 
